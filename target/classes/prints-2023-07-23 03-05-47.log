@@ -1,0 +1,6 @@
+15:05:43.364 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+15:05:43.473 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x68d04c436a1967f5
+15:05:46.637 [main] DEBUG tests.Login - Application url opened
+15:05:46.750 [main] DEBUG tests.Login - MyAccount Option in the top link clicked
+15:05:47.137 [main] DEBUG tests.Login - Login link clicked
+15:05:47.200 [main] DEBUG tests.Login - Navigated to Login Page suuccessfully

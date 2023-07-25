@@ -1,0 +1,3 @@
+13:43:46.673 [main] INFO  tests.Login - Login is successfull
+13:43:46.674 [main] DEBUG tests.Login - Login functionality checked
+13:43:46.784 [main] DEBUG tests.Login - Browser Closed

@@ -1,0 +1,7 @@
+13:43:45.265 [main] DEBUG tests.Login - Application url opened
+13:43:45.346 [main] DEBUG tests.Login - MyAccount Option in the top link clicked
+13:43:45.765 [main] DEBUG tests.Login - Login link clicked
+13:43:45.815 [main] DEBUG tests.Login - Navigated to Login Page suuccessfully
+13:43:45.924 [main] DEBUG tests.Login - Email Address entered in email address field
+13:43:45.994 [main] DEBUG tests.Login - Password entered in Password input field
+13:43:46.625 [main] DEBUG tests.Login - Login button clicked

@@ -1,0 +1,8 @@
+14:49:39.848 [main] DEBUG tests.Login - Login link clicked
+14:49:39.903 [main] DEBUG tests.Login - Navigated to Login Page suuccessfully
+14:49:39.987 [main] DEBUG tests.Login - Email Address entered in email address field
+14:49:40.057 [main] DEBUG tests.Login - Password entered in Password input field
+14:49:40.470 [main] DEBUG tests.Login - Login button clicked
+14:49:50.516 [main] ERROR tests.Login - Login failed
+14:49:50.516 [main] DEBUG tests.Login - Login functionality checked
+14:49:50.601 [main] DEBUG tests.Login - Browser Closed
