@@ -36,7 +36,7 @@ public class Login extends Base {
 	
 	@Test(dataProvider="getLoginCredentials")
 	public void loginApplication(String username, String password, String loginStatus) throws InterruptedException{
-		
+		System.out.println("some random sop statement just for test purpose");
 		
 		landinPage= new LandingPage(driver);
 		
